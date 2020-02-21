@@ -1,9 +1,0 @@
-README.md
-setup.py
-REMD_testbed.egg-info/PKG-INFO
-REMD_testbed.egg-info/SOURCES.txt
-REMD_testbed.egg-info/dependency_links.txt
-REMD_testbed.egg-info/top_level.txt
-remd_testbed/__init__.py
-remd_testbed/test_systems/__init__.py
-remd_testbed/test_systems/double_well_potential.py
