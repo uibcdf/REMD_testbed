@@ -1,2 +1,0 @@
-# REMD
-Replica Exchange Testbed
